@@ -47,9 +47,9 @@
         "image": "tesla-x.jpg",
         "description": "Best crossover in the World",
         "price": 99999.99
-    }
-
-    {  "id": "8",
+    },
+    {  
+       "id": "8,
        "title": "Lamborgini",
        "image": "lamborgini.JPG",
        "description": "fastest auto",
